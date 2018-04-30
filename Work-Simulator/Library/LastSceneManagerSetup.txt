@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Level_test.unity
+  isLoaded: 1
+  isActive: 1
